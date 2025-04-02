@@ -1,0 +1,5 @@
+faster_whisper==1.1.1
+numpy==2.0.2
+sounddevice==0.5.1
+torch==2.6.0
+vosk==0.3.45
